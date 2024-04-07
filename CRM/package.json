@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "choices.js": "^10.2.0",
+    "custom-select": "^1.1.15",
+    "jquery-custom-select": "^1.6.4"
+  }
+}
